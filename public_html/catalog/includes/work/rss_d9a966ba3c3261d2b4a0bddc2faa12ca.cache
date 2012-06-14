@@ -1,0 +1,13 @@
+a:12:{s:8:"encoding";s:5:"UTF-8";s:5:"title";s:24:"osCommerce Contributions";s:4:"link";s:25:"http://www.oscommerce.com";s:11:"description";s:29:"osCommerce, Sell With Emotion";s:8:"language";s:2:"en";s:9:"copyright";s:29:"Copyright (c) 2010 osCommerce";s:14:"managingEditor";s:19:"hpdl@oscommerce.com";s:11:"image_title";s:10:"osCommerce";s:9:"image_url";s:53:"http://www.oscommerce.com/images/oscommerce_88x31.gif";s:10:"image_link";s:25:"http://www.oscommerce.com";s:5:"items";a:5:{i:0;a:4:{s:5:"title";s:81:"Year Make Model (YMM) "Select Vehicle" box for Auto Parts web sites version 2.3.x";s:4:"link";s:38:"http://addons.oscommerce.com/info/7835";s:11:"description";s:154:"This package contains a forth filter for the PART number.  You can now sort by Year, Make, Model and PART.<br />
+<br />
+All rights to the original creator";s:7:"pubDate";s:31:"Wed, 28 Mar 2012 10:07:00 -0400";}i:1;a:4:{s:5:"title";s:65:"Danske utf-8 tekster for v. 3.0.2/ Danish texts utf-8 for v.3.0.2";s:4:"link";s:38:"http://addons.oscommerce.com/info/8391";s:11:"description";s:172:"Danish language pack for v.3.0.2. All texts are utf-8. Front end texts are stored in MySQL database tables, back end texts in the usual php files. Please read laesmig.html.";s:7:"pubDate";s:31:"Wed, 28 Mar 2012 07:17:26 -0400";}i:2;a:4:{s:5:"title";s:17:"GTalk LiveChat V1";s:4:"link";s:38:"http://addons.oscommerce.com/info/8390";s:11:"description";s:48:"A Gtalk box to allow users to interact with you.";s:7:"pubDate";s:31:"Wed, 28 Mar 2012 05:37:00 -0400";}i:3;a:4:{s:5:"title";s:40:"Colissimo avec gestion des Frais de port";s:4:"link";s:38:"http://addons.oscommerce.com/info/8389";s:11:"description";s:250:"Module colissimo avec la gestion des Frais de port.<br />
+<br />
+Vous pouvez fixer les Frais de port dans le module, pour le national, l'international ou le 2 et fixer un montant pour la gratuit&eacute; de frais de port pour chaque destination.<br />";s:7:"pubDate";s:31:"Tue, 27 Mar 2012 14:13:02 -0400";}i:4;a:4:{s:5:"title";s:36:"CyberPlus Paiment ATOS/SIPS (French)";s:4:"link";s:37:"http://addons.oscommerce.com/info/893";s:11:"description";s:432:"Cette version de ATOS V 3.0 renferme 2 versions :<br />
+<br />
+1) Le dossier atos_v3.0_avec_retour_automatique_boutique renferme une version avec un retour automatique &agrave; la boutique apr&egrave;s le traitement de la transaction.<br />
+<br />
+2) Le dossier atos_v3.0_classic referme une version classique de ATOS sans retour automatique &agrave; la boutique.<br />
+<br />
+Cette version est compatible PHP 5+<br />
+<br />
+<br />";s:7:"pubDate";s:31:"Tue, 27 Mar 2012 10:44:46 -0400";}}s:11:"items_count";i:5;}
